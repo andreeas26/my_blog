@@ -1,4 +1,7 @@
 ---
+title: Deep Learning Toolbox
+author: Andreea Sandu
+date: '2021-03-31'
 aliases:
 - /data-augmentation/deep-learning/error-analysis/learning-rate/notes/2021/03/31/dl-toolbox
 categories:
@@ -7,14 +10,11 @@ categories:
 - learning-rate
 - data-augmentation
 - error-analysis
-date: '2021-03-31'
 description: A list of tools that can improve the performance of a DL model.
 hide: false
 layout: post
 search_exclude: false
-title: Deep Learning Toolbox
 toc: true
-
 ---
 
 ![](images/toolbox.gif)

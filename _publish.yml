@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: cca9fbb5-6107-4219-83d8-81bdd92d0c44
+      url: 'https://quartopub.com/sites/andreeas/my_blog'
