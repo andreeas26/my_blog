@@ -17,7 +17,7 @@ search_exclude: false
 toc: true
 ---
 
-![](images/toolbox.gif)
+![](toolbox.gif)
 
 ## Presizing
 
